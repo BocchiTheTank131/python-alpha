@@ -5,3 +5,6 @@ print(fruit)
 
 fruit.append("watermelon")
 print(fruit)
+
+fruit.remove("cherry")
+print(fruit)
